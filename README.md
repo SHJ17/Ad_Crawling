@@ -1,5 +1,12 @@
 # Ad_Crawling
 My first crawling code (and this is the one survived from numerous errors)
+# Prerequisites
+You should donwload the right version of chromedriver. You can easily do this following a few steps...
+
+Open Chrome -> Settings -> About Chrome
+
+Now you'll see the version of your Chrome. Then you should download the right driver from
+https://chromedriver.chromium.org/downloads
 
 # How to modify the code according to websites
 First, open the website you want to crawl the images in it.
